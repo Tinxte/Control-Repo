@@ -1,7 +1,7 @@
 body {
-    color: white;
+    color: rgb(202, 142, 254);
     background-color: #333;
     font-size: 150%;
-    font-family: 'Old English Five', sans-serif;
+    font-family: 'lato', bold;
     margin: 5em 25%;
  }
